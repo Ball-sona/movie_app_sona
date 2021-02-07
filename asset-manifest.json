@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/moive_app_sona/static/css/main.bd701d6d.chunk.css",
-    "main.js": "/moive_app_sona/static/js/main.215527ec.chunk.js",
-    "main.js.map": "/moive_app_sona/static/js/main.215527ec.chunk.js.map",
-    "runtime-main.js": "/moive_app_sona/static/js/runtime-main.1499b139.js",
-    "runtime-main.js.map": "/moive_app_sona/static/js/runtime-main.1499b139.js.map",
-    "static/js/2.a3616ba7.chunk.js": "/moive_app_sona/static/js/2.a3616ba7.chunk.js",
-    "static/js/2.a3616ba7.chunk.js.map": "/moive_app_sona/static/js/2.a3616ba7.chunk.js.map",
-    "index.html": "/moive_app_sona/index.html",
-    "static/css/main.bd701d6d.chunk.css.map": "/moive_app_sona/static/css/main.bd701d6d.chunk.css.map",
-    "static/js/2.a3616ba7.chunk.js.LICENSE.txt": "/moive_app_sona/static/js/2.a3616ba7.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app_sona/static/css/main.bd701d6d.chunk.css",
+    "main.js": "/movie_app_sona/static/js/main.215527ec.chunk.js",
+    "main.js.map": "/movie_app_sona/static/js/main.215527ec.chunk.js.map",
+    "runtime-main.js": "/movie_app_sona/static/js/runtime-main.9066c104.js",
+    "runtime-main.js.map": "/movie_app_sona/static/js/runtime-main.9066c104.js.map",
+    "static/js/2.a3616ba7.chunk.js": "/movie_app_sona/static/js/2.a3616ba7.chunk.js",
+    "static/js/2.a3616ba7.chunk.js.map": "/movie_app_sona/static/js/2.a3616ba7.chunk.js.map",
+    "index.html": "/movie_app_sona/index.html",
+    "static/css/main.bd701d6d.chunk.css.map": "/movie_app_sona/static/css/main.bd701d6d.chunk.css.map",
+    "static/js/2.a3616ba7.chunk.js.LICENSE.txt": "/movie_app_sona/static/js/2.a3616ba7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1499b139.js",
+    "static/js/runtime-main.9066c104.js",
     "static/js/2.a3616ba7.chunk.js",
     "static/css/main.bd701d6d.chunk.css",
     "static/js/main.215527ec.chunk.js"
